@@ -19,7 +19,7 @@ toSave = {};
 toSave.settings = Funbot.settings;
 toSave.moderators = Funbot.moderators;
 
-Funbot.misc.version = "3.1.0";
+Funbot.misc.version = "0.1.0 Beta";
 Funbot.misc.ready = true;
 var songBoundary = 60 * 10;
 var announcementTick = 60 * 10;
@@ -709,7 +709,7 @@ if (window.location.hostname === "plug.dj") {
                     case "authors":
                     case "creator":
                         if (Funbot.admins.indexOf(fromID) !== -1 || API.getUsers(data.un, PlugMod)) {
-                            API.sendChat("This bot was created by: ๖ۣۜĐل - ɴᴇᴏɴ - TFL, And it's Copyrighted!");
+                            API.sendChat("This bot was created by: PIECES OF BROKEN CODE -ghostR!");
                         }
                         break;
 
@@ -1140,7 +1140,7 @@ if (window.location.hostname === "plug.dj") {
         });
     }, 3000);
 
-    API.sendChat('Fun Bot version ' + Funbot.misc.version + ' Activated!');
+    API.sendChat('ghost Bot version ' + Funbot.misc.version + ' Activated!');
 } else {
     alert("This bot can only function at http://plug.dj/community");
 };
