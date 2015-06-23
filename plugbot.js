@@ -1,5 +1,11 @@
  * @Author: ghostR (script made from scraps)
  */
+ 
+ // Please note, This is a BETA version. Version 0.1.0B. It has many bugs however should work
+ // If you wish to help feel free to report any problems.
+ // This bot has a lot of funcions towards Plug.DJ
+ // Enjoy!
+ // Last edited 11:30PM 2015-06-23
 
 
 //                                              ====== The ghost Bot ======
