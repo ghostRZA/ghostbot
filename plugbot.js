@@ -63,25 +63,14 @@ var announcements =
 
 // Keywords of blocked songs
 var blockedSongs = [
-"Rick Roll",
-"GANGNAM",
-"The Fox",
-"The Fox [Official music video HD]",
-"10 hour",
-"Trololo",
-"#SELFIE (Official Music Video)",
-"Heyayayay",
-"Rap God"
+"Example123456",
+
 ];
 
 // Keywords of blocked artist.
 var blockedArtists = [
-"Rick Astley",
-"Miley Cyrus",
-"Eduard Khil",
-"Justin Bieber",
-"Lil wayne",
-"Rebecca Black"
+"Example1234567",
+
 ];
 
 // Filter Keywords
